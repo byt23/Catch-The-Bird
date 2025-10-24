@@ -32,7 +32,6 @@ class level9ViewController: UIViewController {
     @IBOutlet weak var bird11: UIImageView!
     @IBOutlet weak var bird12: UIImageView!
     
-    // Multiple commands produce '/Users/byt1907/Library/Developer/Xcode/DerivedData/Catch_The_Bird-ftamcejjkvuwyxgutxkbjuakswwa/Build/Products/Debug-iphoneos/Catch The Bird.app/Info.plist'
 
     override func viewDidLoad() {
         super.viewDidLoad()
